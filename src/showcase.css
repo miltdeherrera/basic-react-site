@@ -1,0 +1,15 @@
+.spanOne {
+  background-color: green;
+  color: white;
+}
+
+.spanTwo {
+  background-color: white;
+  color: green;
+}
+
+img {
+  height: 300px;
+  width: auto;
+  border-radius: 200px;
+}
